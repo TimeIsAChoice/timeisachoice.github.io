@@ -11,6 +11,11 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
+    <title>index</title>
+    <url>/2020/04/04/index/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>ColabCaffe</title>
     <url>/2020/04/04/ColabCaffe/</url>
     <content><![CDATA[<h2 id="Start-learn-Caffe"><a href="#Start-learn-Caffe" class="headerlink" title="Start learn Caffe"></a>Start learn Caffe</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#!apt-get -y install caffe-cuda</span><br><span class="line">!apt-get -y install caffe-cpu</span><br><span class="line">!git clone https:&#x2F;&#x2F;github.com&#x2F;TimeIsTheChoice&#x2F;caffe.git</span><br></pre></td></tr></table></figure>
@@ -44,6 +49,7 @@
     <title>Yuhang Gallery</title>
     <url>/2020/04/04/My-Gallery/</url>
     <content><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<a id="more"></a>
 <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 content
@@ -109,11 +115,6 @@ content
       </tags>
   </entry>
   <entry>
-    <title>index</title>
-    <url>/2020/04/04/index/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>testAssert</title>
     <url>/2020/04/04/testAssert/</url>
     <content><![CDATA[
@@ -125,13 +126,13 @@ content
       </tags>
   </entry>
   <entry>
-    <title>todayisagoodday</title>
-    <url>/2020/04/04/todayisagoodday/</url>
+    <title>tryTag</title>
+    <url>/2020/04/04/tryTag/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>tryTag</title>
-    <url>/2020/04/04/tryTag/</url>
+    <title>todayisagoodday</title>
+    <url>/2020/04/04/todayisagoodday/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
