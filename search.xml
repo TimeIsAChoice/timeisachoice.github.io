@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Yuhang Gallery</title>
+    <url>/2020/04/04/My-Gallery/</url>
+    <content><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+content
+
+
+
+
+
+
+
+
+
+
+
+/2020/04/04/hello-world/
+<a href="/2020/04/04/hello-world/" title="[title] [escape]">[title] [escape]</a>
+<a href="/2020/04/04/hello-world/" title="Hello World">Hello World</a>
+
+
+<div class="video-container"><iframe src="https://player.vimeo.com/video/video_id,[width],[height]" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+
+<figure class="highlight python"><figcaption><span>readHDF5</span><a href="/downloads/code/readHDF5.py">view raw</a></figcaption><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> h5py</span><br><span class="line">filename = sys.argv[<span class="number">1</span>]</span><br><span class="line"></span><br><span class="line">print(filename)</span><br><span class="line"><span class="keyword">with</span> h5py.File(filename, <span class="string">"r"</span>) <span class="keyword">as</span> f:</span><br><span class="line">    <span class="comment"># List all groups</span></span><br><span class="line">    print(<span class="string">"Keys: %s"</span> % f.keys())</span><br><span class="line">    a_group_key = list(f.keys())[<span class="number">0</span>]</span><br><span class="line">    <span class="comment"># Get the data</span></span><br><span class="line">    data = list(f[a_group_key])</span><br></pre></td></tr></table></figure>
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Mu3scWZvZKo" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+
+
+
+<a href="https://en.wikipedia.org/wiki/Extreme_project_management" title="[external] [title]" target="">wikipedia</a>
+
+
+<img src="/images/illust_53344723_20200330_001821.jpg" class="[class names]" title="Winter" alt="crane">
+
+
+
+<blockquote class="pullquote [class]"><p>content</p>
+</blockquote>
+
+
+
+<blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
+<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
+
+
+
+<figure class="highlight python"><figcaption><span>ColabCaffe</span><a href="http://sethgodin.typepad.com/seths_blog/2009/07/welcome-to-island-marketing.html" target="_blank" rel="noopener">01-learning-lenet.ipynb</a></figcaption><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> psutil</span><br><span class="line"><span class="keyword">import</span> humanize</span><br><span class="line"><span class="keyword">import</span> os</span><br><span class="line"><span class="keyword">import</span> GPUtil <span class="keyword">as</span> GPU</span><br><span class="line">GPUs = GPU.getGPUs()</span><br><span class="line"><span class="comment"># <span class="doctag">XXX:</span> only one GPU on Colab and isn’t guaranteed</span></span><br><span class="line">gpu = GPUs[<span class="number">0</span>]</span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">printm</span><span class="params">()</span>:</span></span><br><span class="line"> process = psutil.Process(os.getpid())</span><br><span class="line"> print(<span class="string">"Gen RAM Free: "</span> + humanize.naturalsize( psutil.virtual_memory().available ), <span class="string">" | Proc size: "</span> + humanize.naturalsize( process.memory_info().rss))</span><br><span class="line"> print(<span class="string">"GPU RAM Free: &#123;0:.0f&#125;MB | Used: &#123;1:.0f&#125;MB | Util &#123;2:3.0f&#125;% | Total &#123;3:.0f&#125;MB"</span>.format(gpu.memoryFree, gpu.memoryUsed, gpu.memoryUtil*<span class="number">100</span>, gpu.memoryTotal))</span><br><span class="line">printm() </span><br></pre></td></tr></table></figure>
+
+
+
+
+<blockquote><p>Search Results<br>Featured snippet from the web<br>Scrum project management is a methodology for managing software delivery that comes under the broader umbrella of agile project management. It provides a lightweight process framework that embraces iterative and incremental practices, helping organizations deliver working software more frequently.</p>
+<footer><strong>[author[, source]]</strong><cite><a href="https://www.wrike.com/blog/extreme-project-management/" target="_blank" rel="noopener">[Extreme]</a></cite></footer></blockquote>
+
+]]></content>
+      <categories>
+        <category>Sports</category>
+        <category>Baseball</category>
+      </categories>
+      <tags>
+        <tag>Injury</tag>
+        <tag>Fight</tag>
+        <tag>Shocking</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/04/04/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>testAssert</title>
+    <url>/2020/04/04/testAssert/</url>
+    <content><![CDATA[<img src="/2020/04/04/testAssert/illust_31911391_20190711_130126.jpg" class="">
+
+<img src="/2020/04/04/testAssert/illust_58074053_20191210_173718.jpg" class="">]]></content>
+  </entry>
+  <entry>
+    <title>About me</title>
+    <url>/2020/04/04/about/me/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+</search>
