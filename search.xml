@@ -110,6 +110,11 @@ content
 ]]></content>
   </entry>
   <entry>
+    <title>index</title>
+    <url>/2020/04/04/index/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>testAssert</title>
     <url>/2020/04/04/testAssert/</url>
     <content><![CDATA[
@@ -119,11 +124,6 @@ content
         <tag>google colab</tag>
         <tag>Caffe</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>index</title>
-    <url>/2020/04/04/index/</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>todayisagoodday</title>
