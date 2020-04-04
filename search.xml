@@ -47,11 +47,6 @@
   </entry>
   <entry>
     <title>This is for test</title>
-    <url>/2020/04/05/This-is-for-test-1/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>This is for test</title>
     <url>/2020/04/05/This-is-for-test/</url>
     <content><![CDATA[]]></content>
   </entry>
@@ -76,6 +71,11 @@
   <entry>
     <title>test</title>
     <url>/2020/04/05/test-1/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>This is for test</title>
+    <url>/2020/04/05/This-is-for-test-1/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
