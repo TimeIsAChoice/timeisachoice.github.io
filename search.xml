@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>ColabCaffe</title>
-    <url>/2020/04/04/ColabCaffe/</url>
-    <content><![CDATA[<h2 id="Start-learn-Caffe"><a href="#Start-learn-Caffe" class="headerlink" title="Start learn Caffe"></a>Start learn Caffe</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#!apt-get -y install caffe-cuda</span><br><span class="line">!apt-get -y install caffe-cpu</span><br><span class="line">!git clone https:&#x2F;&#x2F;github.com&#x2F;TimeIsTheChoice&#x2F;caffe.git</span><br></pre></td></tr></table></figure>
-
-<h2 id="no-run-envriroment"><a href="#no-run-envriroment" class="headerlink" title="no run envriroment"></a>no run envriroment</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">!cp &#x2F;content&#x2F;caffe&#x2F;python&#x2F;caffe&#x2F;io.py &#x2F;usr&#x2F;lib&#x2F;python3&#x2F;dist-packages&#x2F;caffe&#x2F;io.py #alter by Yuhang&#39;s rectified code</span><br></pre></td></tr></table></figure>
-<h2 id="try-to-install-in-windows"><a href="#try-to-install-in-windows" class="headerlink" title="try to install in windows"></a>try to install in windows</h2><h2 id="vast-ai"><a href="#vast-ai" class="headerlink" title="vast.ai"></a>vast.ai</h2>]]></content>
-      <categories>
-        <category>Testing</category>
-      </categories>
-      <tags>
-        <tag>google colab</tag>
-        <tag>Caffe</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2020/04/04/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
@@ -32,6 +17,21 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>ColabCaffe</title>
+    <url>/2020/04/04/ColabCaffe/</url>
+    <content><![CDATA[<h2 id="Start-learn-Caffe"><a href="#Start-learn-Caffe" class="headerlink" title="Start learn Caffe"></a>Start learn Caffe</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#!apt-get -y install caffe-cuda</span><br><span class="line">!apt-get -y install caffe-cpu</span><br><span class="line">!git clone https:&#x2F;&#x2F;github.com&#x2F;TimeIsTheChoice&#x2F;caffe.git</span><br></pre></td></tr></table></figure>
+
+<h2 id="no-run-envriroment"><a href="#no-run-envriroment" class="headerlink" title="no run envriroment"></a>no run envriroment</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">!cp &#x2F;content&#x2F;caffe&#x2F;python&#x2F;caffe&#x2F;io.py &#x2F;usr&#x2F;lib&#x2F;python3&#x2F;dist-packages&#x2F;caffe&#x2F;io.py #alter by Yuhang&#39;s rectified code</span><br></pre></td></tr></table></figure>
+<h2 id="try-to-install-in-windows"><a href="#try-to-install-in-windows" class="headerlink" title="try to install in windows"></a>try to install in windows</h2><h2 id="vast-ai"><a href="#vast-ai" class="headerlink" title="vast.ai"></a>vast.ai</h2>]]></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
+      <tags>
+        <tag>google colab</tag>
+        <tag>Caffe</tag>
+      </tags>
   </entry>
   <entry>
     <title>About me</title>
