@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Caffe</title>
-    <url>/2020/04/04/Caffe/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>google colab</tag>
-        <tag>Caffe</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>ColabCaffe</title>
     <url>/2020/04/04/ColabCaffe/</url>
     <content><![CDATA[<h2 id="Start-learn-Caffe"><a href="#Start-learn-Caffe" class="headerlink" title="Start learn Caffe"></a>Start learn Caffe</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#!apt-get -y install caffe-cuda</span><br><span class="line">!apt-get -y install caffe-cpu</span><br><span class="line">!git clone https:&#x2F;&#x2F;github.com&#x2F;TimeIsTheChoice&#x2F;caffe.git</span><br></pre></td></tr></table></figure>
