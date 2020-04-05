@@ -16,6 +16,19 @@
       </tags>
   </entry>
   <entry>
+    <title>CHAPTER 7 Ensemble Learning and Random Forests</title>
+    <url>/2020/04/05/Ensemble-Learning-and-Random-Forests/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="/uploads/Ensemble Learning and Random Forests.pdf" data-height="500px"></div>]]></content>
+      <categories>
+        <category>Books</category>
+        <category>Hands On Machine Learning with Scikit Learn and TensorFlow</category>
+      </categories>
+      <tags>
+        <tag>machine learning</tag>
+        <tag>supervised learning</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation</title>
     <url>/2020/04/05/Joint-Optic-Disc-and-Cup-Segmentation-Based-on-Multi-label-Deep-Network-and-Polar-Transformation/</url>
     <content><![CDATA[<div class="pdfobject-container" data-target="/uploads/Joint Optic Disc and Cup Segmentation Based on_yuhang.review.pdf" data-height="500px"></div>]]></content>
@@ -33,19 +46,6 @@
         <tag>Convlution Neural Network</tag>
         <tag>tensorflow</tag>
         <tag>Shocking</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>CHAPTER 7 Ensemble Learning and Random Forests</title>
-    <url>/2020/04/05/Ensemble-Learning-and-Random-Forests/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="/uploads/Ensemble Learning and Random Forests.pdf" data-height="500px"></div>]]></content>
-      <categories>
-        <category>Books</category>
-        <category>Hands On Machine Learning with Scikit Learn and TensorFlow</category>
-      </categories>
-      <tags>
-        <tag>machine learning</tag>
-        <tag>supervised learning</tag>
       </tags>
   </entry>
 </search>
