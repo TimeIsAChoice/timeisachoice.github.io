@@ -16,11 +16,6 @@
       </tags>
   </entry>
   <entry>
-    <title>This is for test</title>
-    <url>/2020/04/05/This-is-for-test-1/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation</title>
     <url>/2020/04/05/Joint-Optic-Disc-and-Cup-Segmentation-Based-on-Multi-label-Deep-Network-and-Polar-Transformation/</url>
     <content><![CDATA[]]></content>
@@ -42,7 +37,17 @@
   </entry>
   <entry>
     <title>This is for test</title>
+    <url>/2020/04/05/This-is-for-test-1/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>This is for test</title>
     <url>/2020/04/05/This-is-for-test/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2020/04/05/test-1/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -62,11 +67,6 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2020/04/05/test-1/</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>page</title>
